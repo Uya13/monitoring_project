@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Monitoring Project
+    orgId: 1
+    folder: DevOps Practice 6
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards
